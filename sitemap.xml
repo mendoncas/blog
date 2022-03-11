@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>github.com/mendoncas/blog/index.html</loc><lastmod>2022-03-11</lastmod><priority>1.0</priority></url>
+<url><loc>github.com/mendoncas/blog/fibonacci.html</loc><lastmod>2022-03-11</lastmod><priority>1.0</priority></url>
+<url><loc>github.com/mendoncas/blog/recursividade.html</loc><lastmod>2022-03-11</lastmod><priority>1.0</priority></url>
+</urlset>
