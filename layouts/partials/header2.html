@@ -1,0 +1,13 @@
+<a href="{{ "" | relURL }}" class="title">
+  <nav>
+    <div class='nav-left'>
+      <img src="/images/scot.png" alt="scot" class="header-image">
+    </div>
+    <div class='nav-left' style="margin-top: 0.27em;" >
+      {{ .Site.Title }} 
+    </div>
+    <div class='nav-right'>
+    {{- partial "nav.html" . -}}
+    </div>
+  </nav>
+</a>

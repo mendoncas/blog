@@ -1,0 +1,20 @@
+baseURL = 'https://mendoncas.github.io'
+languageCode = 'en-us'
+title ="Ricardo's blog"
+
+theme = "hugo-bearblog"
+
+# [permalinks]
+#   post = "/:slug/"
+#   tags = "/post/:slug"
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    languageName = 'English'
+    weight = 10
+  [languages.pt]
+    contentDir = 'content/pt'
+    languageName = 'Português'
+    weight = 20
+[params]

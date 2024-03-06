@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on Ricardo&#39;s DevLog</title>
+    <link>https://mendoncas.github.io/post/devops/</link>
+    <description>Recent content in DevOps on Ricardo&#39;s DevLog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Feb 2024 17:03:47 -0300</lastBuildDate><atom:link href="https://mendoncas.github.io/post/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to save a gazillion dollars with SLO-based autoscaling</title>
+      <link>https://mendoncas.github.io/how-to-save-a-gazillion-dollars-with-slo-based-autoscaling/</link>
+      <pubDate>Mon, 19 Feb 2024 17:03:47 -0300</pubDate>
+      
+      <guid>https://mendoncas.github.io/how-to-save-a-gazillion-dollars-with-slo-based-autoscaling/</guid>
+      <description>This page is about better autoscaling!!! </description>
+    </item>
+    
+  </channel>
+</rss>
