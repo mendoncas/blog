@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ricardo&#39;s blog</title>
-    <link>https://mendoncas.xyz/</link>
+    <link>http://mendoncas.xyz/</link>
     <description>Recent content on Ricardo&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Mar 2024 11:37:01 -0300</lastBuildDate><atom:link href="https://mendoncas.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Mar 2024 11:37:01 -0300</lastBuildDate><atom:link href="http://mendoncas.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The peace of mind of GitOps</title>
-      <link>https://mendoncas.xyz/blog/gitops/</link>
+      <link>http://mendoncas.xyz/blog/gitops/</link>
       <pubDate>Sun, 03 Mar 2024 11:37:01 -0300</pubDate>
       
-      <guid>https://mendoncas.xyz/blog/gitops/</guid>
+      <guid>http://mendoncas.xyz/blog/gitops/</guid>
       <description>Recently, we have migrated all of our services from a DC/OS Marathon cluster to an Openshift one. This was quite a big step for our organization, as we had to adapt to a completely new platform. This included finding more modern and efficient ways to architect our CI/CD pipelines. As i researched the many different continuous delivery mechanisms that can be implemented, i stumbled upon the pull-based pipelines and the GitOps paradigm, and it was love at first sight.</description>
     </item>
     
     <item>
       <title>contact</title>
-      <link>https://mendoncas.xyz/contact/</link>
+      <link>http://mendoncas.xyz/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mendoncas.xyz/contact/</guid>
+      <guid>http://mendoncas.xyz/contact/</guid>
       <description></description>
     </item>
     

@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mendoncas.xyz/pt/</loc>
+    <loc>http://mendoncas.xyz/pt/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mendoncas.xyz/"
+                href="http://mendoncas.xyz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mendoncas.xyz/pt/"
+                href="http://mendoncas.xyz/pt/"
                 />
   </url><url>
-    <loc>https://mendoncas.xyz/pt/categories/</loc>
+    <loc>http://mendoncas.xyz/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mendoncas.xyz/categories/"
+                href="http://mendoncas.xyz/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mendoncas.xyz/pt/categories/"
+                href="http://mendoncas.xyz/pt/categories/"
                 />
   </url><url>
-    <loc>https://mendoncas.xyz/pt/tags/</loc>
+    <loc>http://mendoncas.xyz/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mendoncas.xyz/tags/"
+                href="http://mendoncas.xyz/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mendoncas.xyz/pt/tags/"
+                href="http://mendoncas.xyz/pt/tags/"
                 />
   </url>
 </urlset>
