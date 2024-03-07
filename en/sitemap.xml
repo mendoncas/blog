@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mendoncas.github.io/</loc>
+    <loc>mendoncas.xyz/</loc>
     <lastmod>2024-03-03T11:37:01-03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mendoncas.github.io/pt/"
+                href="mendoncas.xyz/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mendoncas.github.io/"
+                href="mendoncas.xyz/"
                 />
   </url><url>
-    <loc>https://mendoncas.github.io/blog/</loc>
+    <loc>mendoncas.xyz/blog/</loc>
     <lastmod>2024-03-03T11:37:01-03:00</lastmod>
   </url><url>
-    <loc>https://mendoncas.github.io/tags/devops/</loc>
+    <loc>mendoncas.xyz/tags/devops/</loc>
     <lastmod>2024-03-03T11:37:01-03:00</lastmod>
   </url><url>
-    <loc>https://mendoncas.github.io/tags/gitops/</loc>
+    <loc>mendoncas.xyz/tags/gitops/</loc>
     <lastmod>2024-03-03T11:37:01-03:00</lastmod>
   </url><url>
-    <loc>https://mendoncas.github.io/tags/kubernetes/</loc>
+    <loc>mendoncas.xyz/tags/kubernetes/</loc>
     <lastmod>2024-03-03T11:37:01-03:00</lastmod>
   </url><url>
-    <loc>https://mendoncas.github.io/tags/</loc>
+    <loc>mendoncas.xyz/tags/</loc>
     <lastmod>2024-03-03T11:37:01-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mendoncas.github.io/pt/tags/"
+                href="mendoncas.xyz/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mendoncas.github.io/tags/"
+                href="mendoncas.xyz/tags/"
                 />
   </url><url>
-    <loc>https://mendoncas.github.io/blog/gitops/</loc>
+    <loc>mendoncas.xyz/blog/gitops/</loc>
     <lastmod>2024-03-03T11:37:01-03:00</lastmod>
   </url><url>
-    <loc>https://mendoncas.github.io/categories/</loc>
+    <loc>mendoncas.xyz/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mendoncas.github.io/pt/categories/"
+                href="mendoncas.xyz/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mendoncas.github.io/categories/"
+                href="mendoncas.xyz/categories/"
                 />
   </url><url>
-    <loc>https://mendoncas.github.io/contact/</loc>
+    <loc>mendoncas.xyz/contact/</loc>
   </url>
 </urlset>
