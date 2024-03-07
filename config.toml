@@ -1,4 +1,4 @@
-baseURL = 'https://mendoncas.xyz'
+baseURL = 'http://mendoncas.xyz/'
 languageCode = 'en-us'
 title ="Ricardo's blog"
 
